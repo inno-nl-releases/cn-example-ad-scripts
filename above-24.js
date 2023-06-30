@@ -1,1 +1,1 @@
-window.postMessage("above-24", "https://www.casinonieuws.nl/");
+window.parent.postMessage("above-24", "https://www.casinonieuws.nl");

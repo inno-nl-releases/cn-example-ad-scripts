@@ -1,1 +1,1 @@
-window.postMessage("unknown", "https://www.casinonieuws.nl/");
+window.parent.postMessage("unknown", "https://www.casinonieuws.nl/");
